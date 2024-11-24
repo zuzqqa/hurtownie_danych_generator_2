@@ -1,6 +1,0 @@
-PassengerID,FirstName,LastName,DocumentType,Nationality,IsCurrent
-1,Troy,Morgan,Passport,Malta,False
-2,David,Golden,ID,Belize,False
-3,Brian,Cooper,Passport,Madagascar,False
-4,Bobby,Ryan,ID,French Polynesia,True
-5,Jamie,Mendoza,Passport,Tokelau,True

@@ -1,6 +1,0 @@
-SecurityCheckID,EmployeeID,BoardingPassID,TimeID,DateID,RatingID,SecurityDuration,ClearanceStatus,ServiceRating
-1,3,2,2,8,1,10,Zatwierdzono,1.42
-2,5,1,6,9,4,3,Zatwierdzono,1.52
-3,4,5,4,5,4,2,Odmowa,1.81
-4,4,1,1,10,5,3,Odmowa,4.13
-5,4,1,3,1,3,1,Zatwierdzono,4.76

@@ -1,0 +1,10 @@
+*.csv
+*.pyc
+
+__pycache__/
+
+data_generator/venv/
+
+data/*.csv
+
+.vscode/
