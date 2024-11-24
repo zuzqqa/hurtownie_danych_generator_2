@@ -1,4 +1,6 @@
 # Data Warehouse Generator
+![External SVG](https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg)
+![External SVG](https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg)
 
 ## Description
 
