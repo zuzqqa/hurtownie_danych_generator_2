@@ -99,14 +99,6 @@ for i in range(1, check_ins_num + 1):
         "ServiceRating": round(random.uniform(1, 5), 2)
     })
 
-# Tabela: Bagaże
-for i in range(1, baggage_num + 1):
-    baggages.append({
-        "BaggageID": i,
-        "CheckInID": random.randint(1, check_ins_num),
-        "Weight": round(random.uniform(5, 30), 2)
-    })
-
 # Tabela: Karty pokładowe
 for i in range(1, boarding_passes_num + 1):
     boarding_passes.append({
