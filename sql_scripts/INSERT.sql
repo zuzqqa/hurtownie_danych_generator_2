@@ -8,7 +8,7 @@ RECONFIGURE;
 
 -- Wymiar: Data
 BULK INSERT Dates
-FROM 'D:\hd\hurtownie_danych_generator_2\dates.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\dates.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -19,7 +19,7 @@ WITH (
 
 -- Wymiar: Czas
 BULK INSERT Times
-FROM 'D:\hd\hurtownie_danych_generator_2\times.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\times.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -30,7 +30,7 @@ WITH (
 
 -- Wymiar: Oceny
 BULK INSERT Ratings
-FROM 'D:\hd\hurtownie_danych_generator_2\ratings.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\ratings.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -41,7 +41,7 @@ WITH (
 
 -- Tabela: Pasa¿erowie
 BULK INSERT Passengers
-FROM 'D:\hd\hurtownie_danych_generator_2\passengers.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\passengers.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -52,7 +52,7 @@ WITH (
 
 -- Tabela: Pracownicy
 BULK INSERT Employees
-FROM 'D:\hd\hurtownie_danych_generator_2\employees.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\employees.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -63,7 +63,7 @@ WITH (
 
 -- Tabela: Odprawy
 BULK INSERT CheckIns
-FROM 'D:\hd\hurtownie_danych_generator_2\check_ins.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\check_ins.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -74,7 +74,7 @@ WITH (
 
 -- Tabela: Karty Pok³adowe
 BULK INSERT BoardingPasses
-FROM 'D:\hd\hurtownie_danych_generator_2\boarding_passes.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\boarding_passes.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -85,7 +85,7 @@ WITH (
 
 -- Tabela: Kontrole Bezpieczeñstwa
 BULK INSERT SecurityChecks
-FROM 'D:\hd\hurtownie_danych_generator_2\security_checks.csv'
+FROM 'D:\hd\hurtownie_danych_generator_2\data\security_checks.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
