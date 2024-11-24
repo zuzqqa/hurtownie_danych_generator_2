@@ -1,0 +1,6 @@
+EmployeeID,EmployeeName,ExperienceCategory,AgeCategory,Gender,IsCurrent
+1,Dennis Mccullough,3-5,20-25,Male,True
+2,Donna Brown,5-10,20-25,Female,False
+3,Mark Wiley,5-10,30-40,Male,False
+4,Tabitha Thomas,0-2,25-30,Male,True
+5,Jay Wilson,3-5,25-30,Male,False
